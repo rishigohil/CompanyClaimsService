@@ -10,7 +10,6 @@ namespace CompanyClaimsService.Models
     /// </summary>
     public class XMLFilesInfo
     {
-        public int Id { get; set; }
         /// <summary>
         /// Gets or sets the name of the claims file.
         /// </summary>

@@ -47,7 +47,6 @@ namespace CompanyClaimsService.Controllers
         {
             try
             {
-
                 claimsRepository = new ClaimsRepository();
 
                 if (string.IsNullOrEmpty(fileName))

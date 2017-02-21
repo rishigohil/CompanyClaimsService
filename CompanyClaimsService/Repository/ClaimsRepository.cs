@@ -1,13 +1,8 @@
 ﻿using CompanyClaimsService.Models;
 using CompanyClaimsService.Utils;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using System.Collections.Generic;
-using System.Dynamic;
 using System.IO;
-using System.Web;
-using System.Web.Helpers;
-using System.Web.Mvc;
 using System.Xml;
 
 namespace CompanyClaimsService.Repository
@@ -32,9 +27,9 @@ namespace CompanyClaimsService.Repository
                 {
                     xmlFilesInfo.Add(new XMLFilesInfo
                     {
-                        Id = int.Parse(names[0]),
-                        ClaimsFileName = names[1],
-                        FileName = fileName
+                        //May change later.
+                        ClaimsFileName = fileName.Split('.')[0],
+                        FileName = fileName.Split('.')[0]
                     });
                 }
 
@@ -56,9 +51,8 @@ namespace CompanyClaimsService.Repository
             {
                 XmlDocument doc = new XmlDocument();
                 doc.Load(path);
-                //processedXml = CoreHelper.XmlToJSON(doc);
                 
-                processedXml = JsonConvert.SerializeXmlNode(doc);
+                processedXml = JsonConvert.SerializeXmlNode(doc, Newtonsoft.Json.Formatting.Indented, true);
             }
 
             return processedXml;

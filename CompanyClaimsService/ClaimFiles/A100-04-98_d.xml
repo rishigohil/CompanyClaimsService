@@ -1,0 +1,85 @@
+<contract>
+  <section>
+    <section_name>
+      POWERTRAIN COVERAGE
+    </section_name>
+    <subsection_name>ENGINE</subsection_name>
+    <description>Engine block and cylinder heads and all internally lubricated parts including</description>
+    <subsection_name>TRANSMISSION</subsection_name>
+    <description>Transmission case and all internally lubricated parts including the torque</description>
+    <subsection_name>FRONT-WHEEL DRIVE</subsection_name>
+    <description>Transaxle housing and all internal parts including ring and pinion gears, sun</description>
+    <subsection_name>FOUR-WHEEL DRIVE</subsection_name>
+    <description>Transfer case and all internal parts contained within the transfer case. Front</description>
+    <subsection_name>REAR-WHEEL DRIVE</subsection_name>
+    <description>Differential housing and all internal parts including parts contained within the</description>
+    <subsection_name>(includes POWERTRAIN coverage plus the following additional parts)</subsection_name>
+    <description />
+  </section>
+  <section>
+    <section_name>
+      SILVER COVERAGE
+    </section_name>
+    <subsection_name>ENGINE</subsection_name>
+    <description>Oil pan, valve and timing covers, turbocharger/supercharger assembly,</description>
+    <subsection_name>AIR CONDITIONER*</subsection_name>
+    <description>Accumulator, automatic temperature control, clutch assembly, pulley, condensor,</description>
+    <subsection_name>TRANSMISSION</subsection_name>
+    <description>Vacuum modulator and transmission mounts.</description>
+    <subsection_name>FRONT-WHEEL DRIVE</subsection_name>
+    <description>Constant velocity joints, axles, wheel bearings.</description>
+    <subsection_name>REAR-WHEEL DRIVE</subsection_name>
+    <description>U-joints, propshafts, axle bearings.</description>
+    <subsection_name>STEERING</subsection_name>
+    <description>Tie rods, idler and pitman arms, center link, coupling, shafts, steering gear</description>
+    <subsection_name>BRAKES</subsection_name>
+    <description>Combination valve, calipers, wheel cylinders, master cylinder, brake booster</description>
+    <subsection_name>FRONT SUSPENSION</subsection_name>
+    <description>Ball joints, bearings and bushings, kingpin and bushings, stabilizer bar,</description>
+    <subsection_name>ELECTRICAL</subsection_name>
+    <description>Windshield wiper motor, power window motor, power seat motor, headlight</description>
+    <subsection_name>(includes POWERTRAIN and SILVER coverage plus the following additional parts)</subsection_name>
+    <description />
+  </section>
+  <section>
+    <section_name>
+      GOLD COVERAGE
+    </section_name>
+    <subsection_name>TRANSMISSION</subsection_name>
+    <description>Oil Pan.</description>
+    <subsection_name>BRAKES</subsection_name>
+    <description>ABS component parts.</description>
+    <subsection_name>AIR CONDITIONING*</subsection_name>
+    <description>Idler pulley and bearings, blower motor, receiver drier.</description>
+    <subsection_name>STEERING</subsection_name>
+    <description>Steering wheel tilt or telescoping mechanism, turn signal switch.</description>
+    <subsection_name>FRONT SUSPENSION</subsection_name>
+    <description>Coil or leaf springs, electronic level control components.</description>
+    <subsection_name>REAR SUSPENSION</subsection_name>
+    <description>Control arms, control arm shafts and bushings, upper and lower</description>
+    <subsection_name>ELECTRICAL</subsection_name>
+    <description>Engine distributor, cruise control components, ESC systems, electronic instrument clusters</description>
+    <subsection_name>COOLING</subsection_name>
+    <description>Radiator and coolant recovery tank, fan clutch, fan blades and motor, heater core and</description>
+  </section>
+  <section>
+    <section_name>
+      PLATINUM COVERAGE
+    </section_name>
+    <subsection_name>Includes the Powertrain, Silver and Gold coverage plans plus ANY OTHER MECHANICAL BREAKDOWN except for those items</subsection_name>
+    <description>listed in the sections "Exclusions From Coverage", and the section "Limits of Liability." All other terms and conditions of the contract</description>
+    <subsection_name>*R12 AIR CONDITIONER CONVERSION (Silver, Gold and Platinum Coverage Only).</subsection_name>
+    <description>WE will make, or reimburse YOU for the cost to make, the modifications necessary to convert YOUR A/C system to operate</description>
+    <subsection_name>This modification is limited to replacement of parts which are not compatible with an alternate approved replacement refrigerant,</subsection_name>
+    <description>such as R134A. WE are not responsible for costs incurred to upgrade or improve an R134A air conditioning system's efficiency</description>
+    <subsection_name>A-100</subsection_name>
+    <description>04/98</description>
+    <subsection_name>A100-498.pm6</subsection_name>
+    <description />
+    <subsection_name>2</subsection_name>
+    <description />
+    <subsection_name>3/18/98, 11:57 AM</subsection_name>
+    <description />
+    <subsection_name />
+  </section>
+</contract>
